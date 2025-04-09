@@ -33,12 +33,17 @@
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![SQLITE](https://img.shields.io/badge/-SQLITE-0D1117?style=for-the-badge&logo=sqlite&labelColor=0D1117)&nbsp;
 ![NOTEPADPLUS](https://img.shields.io/badge/-NOTEPAD_PLUS-0D1117?style=for-the-badge&logo=notepadplusp&labelColor=0D1117)&nbsp;
+![DOCKER](https://img.shields.io/badge/-DOCKER-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
+
 
  
 ### Studying in this moment:
 ![PYTHON](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-Java_Script-0D1117?style=for-the-badge&logo=javascript&logoColor=1572B6&labelColor=0D1117)&nbsp;
+
+
 
 
 <div align="center">
