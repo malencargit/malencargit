@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meus Projetos</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <header>
+        <h1>Meus Projetos</h1>
+        <a href="/">Voltar</a>
+    </header>
+    
+    <section>
+        <h2>Lista de Projetos</h2>
+        <ul>
+            {% for projeto in projetos %}
+                <li>
+                    <strong>{{ projeto.titulo }}</strong>: {{ projeto.descricao }}
+                    <form action="{{ url_for('executar_projeto', projeto_id=projeto.id) }}" method="post" style="display:inline;">
+                        <button type="submit">Executar</button>
+                    </form>
+                </li>
+            {% endfor %}
+        </ul>
+    </section>
+</body>
+</html>
